@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Cotizador de Seguros</title>
+</head>
+
+<body>
+    <h1>COTIZADOR DE SEGUROS CODERHOUSE</h1>
+    <form id="formulario">
+        <label id="marca">Seleccione la marca de su unidad:</label>
+        
+        <label id="marcaModelo">Seleccione el modelo de su unidad:</label>
+        
+        <label>Año del auto:</label> 
+        <input type="number" id="anio">    
+
+        <label>Edad del conductor:</label>
+        <input type="number" id="edad">
+
+        <label id="contenedorCobertura">Cobertura:</label>
+
+        <button id="enviar-cotizacion" type="button">Calcular</button>
+        <div id="cotizacion"></div>
+    </form>
+</body>
+<script src="https://cdn.jsdelivr.net/npm/luxon@3.3.0/build/global/luxon.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script src="cotizadorv2.js">
+</script>
+
+</html>

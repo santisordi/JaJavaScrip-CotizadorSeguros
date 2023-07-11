@@ -1,0 +1,86 @@
+{
+    "autos": [{
+            "marca": "Chevrolet",
+            "modelo": "Corsa",
+            "precio": 8000
+        },
+        {
+            "marca": "Chevrolet",
+            "modelo": "Agile",
+            "precio": 10000
+        },
+        {
+            "marca": "Chevrolet",
+            "modelo": "Meriva",
+            "precio": 15000
+        },
+        {
+            "marca": "Chevrolet",
+            "modelo": "Tracker",
+            "precio": 20000
+        },
+        {
+            "marca": "Renault",
+            "modelo": "Logan",
+            "precio": 17000
+        },
+        {
+            "marca": "Renault",
+            "modelo": "Kwid",
+            "precio": 11000
+        },
+        {
+            "marca": "Renault",
+            "modelo": "Master",
+            "precio": 16000
+        },
+        {
+            "marca": "Honda",
+            "modelo": "CRV",
+            "precio": 18000
+        },
+        {
+            "marca": "Honda",
+            "modelo": "Fit",
+            "precio": 12000
+        },
+        {
+            "marca": "Honda",
+            "modelo": "Civic",
+            "precio": 20000
+        },
+        {
+            "marca": "Toyota",
+            "modelo": "Hilux",
+            "precio": 25000
+        },
+        {
+            "marca": "Toyota",
+            "modelo": "Corolla",
+            "precio": 21000
+        },
+        {
+            "marca": "Toyota",
+            "modelo": "Yaris",
+            "precio": 18000
+        },
+        {
+            "marca": "Toyota",
+            "modelo": "Cross",
+            "precio": 23000
+        }
+    ],
+    "cobertura": [{
+            "tipo": "Responsabilidad Civil",
+            "precioAdicional": 1000
+        },
+        {
+            "tipo": "Tercero Completo",
+            "precioAdicional": 2000
+        },
+        {
+            "tipo": "Todo Riesgo",
+            "precioAdicional": 3000
+        }
+    ]
+}

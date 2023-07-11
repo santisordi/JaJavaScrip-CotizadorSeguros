@@ -1,0 +1,69 @@
+body {
+    font-family: sans-serif;
+    align-content: center;
+    background-image: url("img/coderBackGround.png");
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    
+    color: #ffffff;
+    font-size: 35px;
+    margin: 50px 0;
+    text-align: center;
+    font-style: oblique;
+    font-weight: 800;
+    font-stretch: expanded;
+}
+
+form {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    margin: 20px auto;
+    max-width: 500px;
+    padding: 20px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+input, select {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 5px;
+    width: 100%;
+}
+
+button {
+    margin-top: 15px;
+    background-color: #333;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 10px;
+    width: 100%;
+}
+
+button:hover {
+    background-color: #444;
+}
+
+.costo {
+    margin-top: 10px;
+    color: #333;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 20px 0;
+    text-align: center;
+}
